@@ -119,7 +119,7 @@ div.one {
     margin-left: 15px;
 }
 
-div.two div {
+div.two .left {
     margin-left: 15px;
 }
 
@@ -149,7 +149,7 @@ div.two div {
     width: 50%;
 }
 
-div.three div {
+div.three .right {
     margin-right: 15px;
 }
 
