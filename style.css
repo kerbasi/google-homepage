@@ -18,6 +18,7 @@ body {
     border: 1px solid #dfe1e5;
     height: 44px;
     width: 582px;
+    padding-left: 15px;
 }
 
 .button{
